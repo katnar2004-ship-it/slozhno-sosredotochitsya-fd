@@ -5,8 +5,17 @@
 */
 
 :root.theme-dark {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --background-image: url(../images/cover-image-dark.png);
+  --main-backgroundg-color: rgba(0, 0, 40, 1);
+  --accent-color: rgba(255, 0, 112, 1);
+  --main-text-color: rgba(241, 178, 206, 1);
+  --nav-color: rgba(255, 0, 112, 1);
+  --nav-hover-color: rgba(255, 0, 112, 0.4);
+  --main-heading-color: rgba(0, 0, 40, 1);
+  --header-title-color: rgba(219, 0, 255, 1);
+  --footer-title-color: rgba(219, 0, 255, 1);
+}
+
+.theme-dark .header-rec {
+  display: block;
 }
