@@ -12,6 +12,7 @@
   --nav-color: rgba(53, 52, 48, 1);
   --nav-hover-color: rgba(50, 49, 45, 0.4);
   --main-heading-color: rgba(53, 52, 48, 1);
+  --section-heading-color: rgba(53, 52, 48, 1);
   --header-title-color: rgba(255, 194, 230, 1);
   --footer-title-color: rgba(255, 194, 230, 1);
 }
@@ -29,6 +30,7 @@
   --nav-color: rgba(53, 52, 48, 1);
   --nav-hover-color: rgba(50, 49, 45, 0.4);
   --main-heading-color: rgba(53, 52, 48, 1);
+  --section-heading-color: rgba(53, 52, 48, 1);
   --header-title-color: rgba(255, 194, 230, 1);
   --footer-title-color: rgba(255, 194, 230, 1);
   }
