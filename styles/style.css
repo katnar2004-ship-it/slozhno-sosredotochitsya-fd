@@ -272,9 +272,6 @@ body {
   color: var(--main-heading-color);
   font-family: var(--main-font-family);
   font-size: var(--main-text-size);
-}
-
-.text-block-title {
   font-weight: 700;
 }
 
