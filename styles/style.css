@@ -142,9 +142,7 @@ body {
 
 .header__theme-menu-button:focus-visible {
   outline: none;
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-color: var(--nav-color);
+  border-bottom: 1px solid var(--nav-color);
 }
 
 .header-logo {
